@@ -12,20 +12,20 @@ Scalable | Modular | Accessible | Flexible | Decentralized
 ## [2] Expansive roster of maintained libraries and development tools
 *Diverse libraries maintained by a group of decentralized developers.*
 - Libraries managed by developers who have created them or have extensively modified them.
-- Developer commitment and select library or code base.
 - Documented development tools supported with recipes and community resources.
 - Focus on ease of integration and ease of new development.
 
 ## [3] Layered solutions
 *First and second layer of plugins that allow for functionality without adding bulk to the blockchain itself.*
-- Modular plugins at first layer (blockchain-level) and second layer (applications layer)
+- Innovative two-layer approach enables apps developers to create scalable, decentralized apps with their own language and tool choices.
+- Modular plugins at first layer (blockchain layer) and second layer (apps layer)
 - Blockchain layer operations streamlined to focus on governance and native token management.
-- Second layer solutions to support custom functions such as smart contracts, fungible and non-fungible tokens, and interactive social applications.
-- Standardized microservices to support easy integration of new 2nd layer applications into the Hive ecosystem.
+- Second layer solutions support custom functions such as smart contracts, fungible and non-fungible tokens, and interactive social applications.
+- Standardized microservices to support easy integration of new 2nd layer apps into the Hive ecosystem.
 
 ## [4] Decentralized redundancy
 *Backup provisions to ensure lossless and continued operation of critical infrastructure.*
-- Automatic failover in case of loss or compromise of primary key servers and nodes.
-- Geographically distributed servers and nodes to prevent critical infrastructure-based attacks.
+- Geographically distributed servers and nodes for service redundancy.
+- API libraries support automatic fallover in the case of node failure.
 - Full utilization of and emphasis on the promotion of Open Source developed and incorporated solutions.
 - Multiple key holders for critical points. 
