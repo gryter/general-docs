@@ -6,8 +6,8 @@ Scalable | Modular | Accessible | Flexible | Decentralized
 *Optimized blockchain technology built to scale and adapt to shifting needs.* 
 - Moving away from pre-existing undelivered commitments designed by pre-fork teams.
 - Optimizing the existing processes, including testing, patching and gap identification.
-- Building in security mechanisms to address DPoS-related potential vulnerabilities. 
-- Lowering the size of nodes and baseline infrastructure to promote robust scaling.
+- Building in security mechanisms to address potential DPoS-related vulnerabilities. 
+- Lowering the operating cost of nodes and baseline infrastructure to promote robust scaling.
 
 ## [2] Expansive roster of maintained libraries and development tools
 *Diverse libraries maintained by a group of decentralized developers.*
@@ -18,10 +18,10 @@ Scalable | Modular | Accessible | Flexible | Decentralized
 
 ## [3] Layered solutions
 *First and second layer of plugins that allow for functionality without adding bulk to the blockchain itself.*
-- Modular plugins at blockchain, first, and second levels.
-- Hivemind optimized to take on partial functionality of the `account_history` plugin.
-- Second layer solutions delivering smart contracts, non-fungible tokens, and fungible tokens.
-- Specialized microservices built upon existing technology to allow straightforward integration.
+- Modular plugins at first layer (blockchain-level) and second layer (applications layer)
+- Blockchain layer operations streamlined to focus on governance and native token management.
+- Second layer solutions to support custom functions such as smart contracts, fungible and non-fungible tokens, and interactive social applications.
+- Standardized microservices to support easy integration of new 2nd layer applications into the Hive ecosystem.
 
 ## [4] Decentralized redundancy
 *Backup provisions to ensure lossless and continued operation of critical infrastructure.*
