@@ -10,7 +10,7 @@ Scalable | Modular | Accessible | Flexible | Decentralized
 - Lowering the operating cost of nodes and baseline infrastructure to promote robust scaling.
 
 ## [2] Expansive roster of maintained libraries and development tools
-*Diverse libraries maintained by a group of decentralized developers.*
+*Diverse libraries maintained by a decentralized network of developers.*
 - Libraries managed by developers who have created them or have extensively modified them.
 - Developer commitment to select library or code base.
 - Documented development tools supported with recipes and community resources.
