@@ -4,7 +4,7 @@ Scalable | Modular | Accessible | Flexible | Decentralized
 
 ## [1] Enterprise-level blockchain solution
 *Optimized blockchain technology built to scale and adapt to shifting needs.* 
-- Moving away from pre-existing undelivered commitments designed by pre-fork teams.
+- Identification and focus on new deliverables and commitments. 
 - Optimizing the existing processes, including testing, patching and gap identification.
 - Building in security mechanisms to address potential DPoS-related vulnerabilities. 
 - Lowering the operating cost of nodes and baseline infrastructure to promote robust scaling.
@@ -18,7 +18,7 @@ Scalable | Modular | Accessible | Flexible | Decentralized
 
 ## [3] Layered solutions
 *First and second layer of plugins that allow for functionality without adding bulk to the blockchain itself.*
-- Modular plugins at first layer (blockchain-level) and second layer (applications layer)
+- Modular plugins at first layer (blockchain-level) and second layer (applications layer).
 - Blockchain layer operations streamlined to focus on governance and native token management.
 - Second layer solutions to support custom functions such as smart contracts, fungible and non-fungible tokens, and interactive social applications.
 - Standardized microservices to support easy integration of new 2nd layer applications into the Hive ecosystem.
