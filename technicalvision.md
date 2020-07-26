@@ -28,4 +28,4 @@ Scalable | Modular | Accessible | Flexible | Decentralized
 - Automatic failover in case of loss or compromise of primary key servers and nodes.
 - Geographically distributed servers and nodes to prevent critical infrastructure-based attacks.
 - Full utilization of and emphasis on the promotion of Open Source developed and incorporated solutions.
-- Multiple key holders for critical points. 
+- Teams with overlapping skill-sets for high availability design and support.
